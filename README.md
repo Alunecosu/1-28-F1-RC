@@ -58,6 +58,8 @@ Everything was built in Autodesk Fusion.
     ESC BEC 5V -> ESP32-S3 "5V" pin and servo power
     (Do not connect USB and the ESC 5V to the ESP32 at the same time.)
 
+<img width="771" height="694" alt="image" src="https://github.com/user-attachments/assets/16bf90e6-1600-47ea-a79d-54c1ab524821" />
+
 ## Assembly
 
 1. Prepare the printed or manufactured parts.
